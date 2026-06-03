@@ -1,0 +1,64 @@
+# Next.js / React Production Ignored
+/node_modules
+/.next/
+/out/
+/build
+.vercel
+
+# Testing Artifacts & Coverage
+/coverage
+/__tests__/**/*.snap
+jest.setup.js
+jest.setup.ts
+
+# Operating System Specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Environmental & Sensitive Information
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.pem
+*.key
+*.cert
+*.crt
+id_rsa
+auth_token.txt
+
+# Development Working Files & Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+*.log
+build_output.txt
+dev_server.log
+conflict_search.txt
+
+# Media / Debug Artifacts
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+!public/**/*
+!src/app/fonts/**/*
+
+# Project-Specific Working Directories
+/tmp/
+*.tsbuildinfo
+next-env.d.ts
+
+# Binary Archive Blocks (Source ZIPs)
+*.zip
+*.tar.gz
+*.rar
+*.7z
