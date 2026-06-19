@@ -13,7 +13,7 @@ export const profile = {
     "school": "Chandigarh University",
     "degree": "B.E. (Hons.) CSE (AI & ML)",
     "years": "2022 - 2026",
-    "gpa": "7.88"
+    "gpa": "8.04"
   },
   "experience": [
     {
@@ -70,7 +70,7 @@ export const profile = {
     "school": "Chandigarh University",
     "degree": "B.E. (Hons.) CSE (AI & ML)",
     "years": "2022 - 2026",
-    "gpa": "7.88"
+    "gpa": "8.04"
   },
   "experience": [
     {
@@ -127,7 +127,7 @@ export const profile = {
     "school": "Chandigarh University",
     "degree": "B.E. (Hons.) CSE (AI & ML)",
     "years": "2022 - 2026",
-    "gpa": "7.88"
+    "gpa": "8.04"
   },
   "experience": [
     {
@@ -184,7 +184,7 @@ export const profile = {
     "school": "Chandigarh University",
     "degree": "B.E. (Hons.) CSE (AI & ML)",
     "years": "2022 - 2026",
-    "gpa": "7.88"
+    "gpa": "8.04"
   },
   "experience": [
     {
@@ -241,7 +241,7 @@ export const profile = {
     "school": "Chandigarh University",
     "degree": "B.E. (Hons.) CSE (AI & ML)",
     "years": "2022 - 2026",
-    "gpa": "7.88"
+    "gpa": "8.04"
   },
   "experience": [
     {
@@ -298,7 +298,7 @@ export const profile = {
     "school": "Chandigarh University",
     "degree": "B.E. (Hons.) CSE (AI & ML)",
     "years": "2022 - 2026",
-    "gpa": "7.88"
+    "gpa": "8.04"
   },
   "experience": [
     {
@@ -355,7 +355,7 @@ export const profile = {
     "school": "Chandigarh University",
     "degree": "B.E. (Hons.) CSE (AI & ML)",
     "years": "2022 - 2026",
-    "gpa": "7.88"
+    "gpa": "8.04"
   },
   "experience": [
     {
@@ -412,7 +412,7 @@ export const profile = {
     "school": "Chandigarh University",
     "degree": "B.E. (Hons.) CSE (AI & ML)",
     "years": "2022 - 2026",
-    "gpa": "7.88"
+    "gpa": "8.04"
   },
   "experience": [
     {
@@ -469,7 +469,7 @@ export const profile = {
     "school": "Chandigarh University",
     "degree": "B.E. (Hons.) CSE (AI & ML)",
     "years": "2022 - 2026",
-    "gpa": "7.88"
+    "gpa": "8.04"
   },
   "experience": [
     {
@@ -526,7 +526,7 @@ export const profile = {
     "school": "Chandigarh University",
     "degree": "B.E. (Hons.) CSE (AI & ML)",
     "years": "2022 - 2026",
-    "gpa": "7.88"
+    "gpa": "8.04"
   },
   "experience": [
     {
@@ -583,7 +583,7 @@ export const profile = {
     "school": "Chandigarh University",
     "degree": "B.E. (Hons.) CSE (AI & ML)",
     "years": "2022 - 2026",
-    "gpa": "7.88"
+    "gpa": "8.04"
   },
   "experience": [
     {
@@ -640,7 +640,7 @@ export const profile = {
     "school": "Chandigarh University",
     "degree": "B.E. (Hons.) CSE (AI & ML)",
     "years": "2022 - 2026",
-    "gpa": "7.88"
+    "gpa": "8.04"
   },
   "experience": [
     {
@@ -697,7 +697,7 @@ export const profile = {
     "school": "Chandigarh University",
     "degree": "B.E. (Hons.) CSE (AI & ML)",
     "years": "2022 - 2026",
-    "gpa": "7.88"
+    "gpa": "8.04"
   },
   "experience": [
     {

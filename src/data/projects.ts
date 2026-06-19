@@ -93,6 +93,25 @@ export const projects: any = {
       "// GEMINI_2.5_FLASH",
       "// DEEP_RESEARCH"
     ]
+  },
+  {
+    "title": "OfferSense",
+    "description": "AI-powered full-stack app that evaluates job offer letters against real market salary data and generates negotiation scripts. Supports PDF, DOCX & image uploads.",
+    "tags": [
+      "FastAPI",
+      "React",
+      "Groq",
+      "LLaMA 3.3"
+    ],
+    "color": "#f59e0b",
+    "link": "https://github.com/Shivam8292/OfferSense",
+    "slug": "offersense",
+    "mobileScreenshot": "/screenshots_phone/Velocity.jpg",
+    "specs": [
+      "// SALARY_ANALYSIS",
+      "// NEGOTIATION_AI",
+      "// MULTI_FORMAT_UPLOAD"
+    ]
   }
 ],
   ja: [
@@ -186,6 +205,25 @@ export const projects: any = {
       "// MULTI_AGENT_FLOW",
       "// GEMINI_2.5_FLASH",
       "// DEEP_RESEARCH"
+    ]
+  },
+  {
+    "title": "OfferSense",
+    "description": "AI-powered full-stack app that evaluates job offer letters against real market salary data and generates negotiation scripts. Supports PDF, DOCX & image uploads.",
+    "tags": [
+      "FastAPI",
+      "React",
+      "Groq",
+      "LLaMA 3.3"
+    ],
+    "color": "#f59e0b",
+    "link": "https://github.com/Shivam8292/OfferSense",
+    "slug": "offersense",
+    "mobileScreenshot": "/screenshots_phone/Velocity.jpg",
+    "specs": [
+      "// SALARY_ANALYSIS",
+      "// NEGOTIATION_AI",
+      "// MULTI_FORMAT_UPLOAD"
     ]
   }
 ],
@@ -281,6 +319,25 @@ export const projects: any = {
       "// GEMINI_2.5_FLASH",
       "// DEEP_RESEARCH"
     ]
+  },
+  {
+    "title": "OfferSense",
+    "description": "AI-powered full-stack app that evaluates job offer letters against real market salary data and generates negotiation scripts. Supports PDF, DOCX & image uploads.",
+    "tags": [
+      "FastAPI",
+      "React",
+      "Groq",
+      "LLaMA 3.3"
+    ],
+    "color": "#f59e0b",
+    "link": "https://github.com/Shivam8292/OfferSense",
+    "slug": "offersense",
+    "mobileScreenshot": "/screenshots_phone/Velocity.jpg",
+    "specs": [
+      "// SALARY_ANALYSIS",
+      "// NEGOTIATION_AI",
+      "// MULTI_FORMAT_UPLOAD"
+    ]
   }
 ],
   "zh-tw": [
@@ -374,6 +431,25 @@ export const projects: any = {
       "// MULTI_AGENT_FLOW",
       "// GEMINI_2.5_FLASH",
       "// DEEP_RESEARCH"
+    ]
+  },
+  {
+    "title": "OfferSense",
+    "description": "AI-powered full-stack app that evaluates job offer letters against real market salary data and generates negotiation scripts. Supports PDF, DOCX & image uploads.",
+    "tags": [
+      "FastAPI",
+      "React",
+      "Groq",
+      "LLaMA 3.3"
+    ],
+    "color": "#f59e0b",
+    "link": "https://github.com/Shivam8292/OfferSense",
+    "slug": "offersense",
+    "mobileScreenshot": "/screenshots_phone/Velocity.jpg",
+    "specs": [
+      "// SALARY_ANALYSIS",
+      "// NEGOTIATION_AI",
+      "// MULTI_FORMAT_UPLOAD"
     ]
   }
 ],
@@ -469,6 +545,25 @@ export const projects: any = {
       "// GEMINI_2.5_FLASH",
       "// DEEP_RESEARCH"
     ]
+  },
+  {
+    "title": "OfferSense",
+    "description": "AI-powered full-stack app that evaluates job offer letters against real market salary data and generates negotiation scripts. Supports PDF, DOCX & image uploads.",
+    "tags": [
+      "FastAPI",
+      "React",
+      "Groq",
+      "LLaMA 3.3"
+    ],
+    "color": "#f59e0b",
+    "link": "https://github.com/Shivam8292/OfferSense",
+    "slug": "offersense",
+    "mobileScreenshot": "/screenshots_phone/Velocity.jpg",
+    "specs": [
+      "// SALARY_ANALYSIS",
+      "// NEGOTIATION_AI",
+      "// MULTI_FORMAT_UPLOAD"
+    ]
   }
 ],
   fr: [
@@ -562,6 +657,25 @@ export const projects: any = {
       "// MULTI_AGENT_FLOW",
       "// GEMINI_2.5_FLASH",
       "// DEEP_RESEARCH"
+    ]
+  },
+  {
+    "title": "OfferSense",
+    "description": "AI-powered full-stack app that evaluates job offer letters against real market salary data and generates negotiation scripts. Supports PDF, DOCX & image uploads.",
+    "tags": [
+      "FastAPI",
+      "React",
+      "Groq",
+      "LLaMA 3.3"
+    ],
+    "color": "#f59e0b",
+    "link": "https://github.com/Shivam8292/OfferSense",
+    "slug": "offersense",
+    "mobileScreenshot": "/screenshots_phone/Velocity.jpg",
+    "specs": [
+      "// SALARY_ANALYSIS",
+      "// NEGOTIATION_AI",
+      "// MULTI_FORMAT_UPLOAD"
     ]
   }
 ],
@@ -657,6 +771,25 @@ export const projects: any = {
       "// GEMINI_2.5_FLASH",
       "// DEEP_RESEARCH"
     ]
+  },
+  {
+    "title": "OfferSense",
+    "description": "AI-powered full-stack app that evaluates job offer letters against real market salary data and generates negotiation scripts. Supports PDF, DOCX & image uploads.",
+    "tags": [
+      "FastAPI",
+      "React",
+      "Groq",
+      "LLaMA 3.3"
+    ],
+    "color": "#f59e0b",
+    "link": "https://github.com/Shivam8292/OfferSense",
+    "slug": "offersense",
+    "mobileScreenshot": "/screenshots_phone/Velocity.jpg",
+    "specs": [
+      "// SALARY_ANALYSIS",
+      "// NEGOTIATION_AI",
+      "// MULTI_FORMAT_UPLOAD"
+    ]
   }
 ],
   de: [
@@ -750,6 +883,25 @@ export const projects: any = {
       "// MULTI_AGENT_FLOW",
       "// GEMINI_2.5_FLASH",
       "// DEEP_RESEARCH"
+    ]
+  },
+  {
+    "title": "OfferSense",
+    "description": "AI-powered full-stack app that evaluates job offer letters against real market salary data and generates negotiation scripts. Supports PDF, DOCX & image uploads.",
+    "tags": [
+      "FastAPI",
+      "React",
+      "Groq",
+      "LLaMA 3.3"
+    ],
+    "color": "#f59e0b",
+    "link": "https://github.com/Shivam8292/OfferSense",
+    "slug": "offersense",
+    "mobileScreenshot": "/screenshots_phone/Velocity.jpg",
+    "specs": [
+      "// SALARY_ANALYSIS",
+      "// NEGOTIATION_AI",
+      "// MULTI_FORMAT_UPLOAD"
     ]
   }
 ],
@@ -845,6 +997,25 @@ export const projects: any = {
       "// GEMINI_2.5_FLASH",
       "// DEEP_RESEARCH"
     ]
+  },
+  {
+    "title": "OfferSense",
+    "description": "AI-powered full-stack app that evaluates job offer letters against real market salary data and generates negotiation scripts. Supports PDF, DOCX & image uploads.",
+    "tags": [
+      "FastAPI",
+      "React",
+      "Groq",
+      "LLaMA 3.3"
+    ],
+    "color": "#f59e0b",
+    "link": "https://github.com/Shivam8292/OfferSense",
+    "slug": "offersense",
+    "mobileScreenshot": "/screenshots_phone/Velocity.jpg",
+    "specs": [
+      "// SALARY_ANALYSIS",
+      "// NEGOTIATION_AI",
+      "// MULTI_FORMAT_UPLOAD"
+    ]
   }
 ],
   "pt-br": [
@@ -938,6 +1109,25 @@ export const projects: any = {
       "// MULTI_AGENT_FLOW",
       "// GEMINI_2.5_FLASH",
       "// DEEP_RESEARCH"
+    ]
+  },
+  {
+    "title": "OfferSense",
+    "description": "AI-powered full-stack app that evaluates job offer letters against real market salary data and generates negotiation scripts. Supports PDF, DOCX & image uploads.",
+    "tags": [
+      "FastAPI",
+      "React",
+      "Groq",
+      "LLaMA 3.3"
+    ],
+    "color": "#f59e0b",
+    "link": "https://github.com/Shivam8292/OfferSense",
+    "slug": "offersense",
+    "mobileScreenshot": "/screenshots_phone/Velocity.jpg",
+    "specs": [
+      "// SALARY_ANALYSIS",
+      "// NEGOTIATION_AI",
+      "// MULTI_FORMAT_UPLOAD"
     ]
   }
 ],
@@ -1033,6 +1223,25 @@ export const projects: any = {
       "// GEMINI_2.5_FLASH",
       "// DEEP_RESEARCH"
     ]
+  },
+  {
+    "title": "OfferSense",
+    "description": "AI-powered full-stack app that evaluates job offer letters against real market salary data and generates negotiation scripts. Supports PDF, DOCX & image uploads.",
+    "tags": [
+      "FastAPI",
+      "React",
+      "Groq",
+      "LLaMA 3.3"
+    ],
+    "color": "#f59e0b",
+    "link": "https://github.com/Shivam8292/OfferSense",
+    "slug": "offersense",
+    "mobileScreenshot": "/screenshots_phone/Velocity.jpg",
+    "specs": [
+      "// SALARY_ANALYSIS",
+      "// NEGOTIATION_AI",
+      "// MULTI_FORMAT_UPLOAD"
+    ]
   }
 ],
   es: [
@@ -1127,6 +1336,25 @@ export const projects: any = {
       "// GEMINI_2.5_FLASH",
       "// DEEP_RESEARCH"
     ]
+  },
+  {
+    "title": "OfferSense",
+    "description": "AI-powered full-stack app that evaluates job offer letters against real market salary data and generates negotiation scripts. Supports PDF, DOCX & image uploads.",
+    "tags": [
+      "FastAPI",
+      "React",
+      "Groq",
+      "LLaMA 3.3"
+    ],
+    "color": "#f59e0b",
+    "link": "https://github.com/Shivam8292/OfferSense",
+    "slug": "offersense",
+    "mobileScreenshot": "/screenshots_phone/Velocity.jpg",
+    "specs": [
+      "// SALARY_ANALYSIS",
+      "// NEGOTIATION_AI",
+      "// MULTI_FORMAT_UPLOAD"
+    ]
   }
 ],
   eridian: [
@@ -1220,6 +1448,25 @@ export const projects: any = {
       "// MULTI_AGENT_FLOW",
       "// GEMINI_2.5_FLASH",
       "// DEEP_RESEARCH"
+    ]
+  },
+  {
+    "title": "OfferSense",
+    "description": "AI-powered full-stack app that evaluates job offer letters against real market salary data and generates negotiation scripts. Supports PDF, DOCX & image uploads.",
+    "tags": [
+      "FastAPI",
+      "React",
+      "Groq",
+      "LLaMA 3.3"
+    ],
+    "color": "#f59e0b",
+    "link": "https://github.com/Shivam8292/OfferSense",
+    "slug": "offersense",
+    "mobileScreenshot": "/screenshots_phone/Velocity.jpg",
+    "specs": [
+      "// SALARY_ANALYSIS",
+      "// NEGOTIATION_AI",
+      "// MULTI_FORMAT_UPLOAD"
     ]
   }
 ],
